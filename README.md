@@ -4,7 +4,10 @@
 This is the classic game *Hangman* implemented as a console application.
 
 ## Instructions
-
+In a terminal:
+```
+python3 hangman.py
+```
 ## License
 Copyright &copy; 2022 Chris "C.J." Irwin<br>
 This project is [MIT](LICENSE) licensed.
